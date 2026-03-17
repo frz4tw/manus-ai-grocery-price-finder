@@ -11,4 +11,4 @@ This is a Manus AI skill that checks the price of products in local markets.
 Find the cheapest grocery prices without manually searching multiple websites.
 
 ## Get the skill
-https://SEU-LINK-GUMROAD
+https://gumroad.com/products
